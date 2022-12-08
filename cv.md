@@ -8,7 +8,7 @@
 #### Astana, Kazakhstan
 
 
-**Work experience**
+> **Work experience**
 
 ### Cerebro Innovation Technologies
 _January 2022 - until now_
@@ -20,14 +20,15 @@ _December 2020 - March 2021_
 #### Web-Developer
 ##### Made a websites with different CMS (Joomla, OpenCart)
 
-**Education**
+
+> **Education**
 
 ### Eurasian National University
 _September 2018 - June 2022_
 #### Bachelor's Degree in Software Engineering
 
 
-**Skills**
+> **Skills**
 
 ### Languages
 
