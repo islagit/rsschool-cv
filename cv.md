@@ -5,7 +5,7 @@
 **Contacts**
 
 #### Islamsandybayev24@gmail.com
-#### Astana, Kazakhstan \
+#### Astana, Kazakhstan\
 
 
 > **Work experience**
@@ -18,24 +18,30 @@ _January 2022 - until now_
 ### ABC Design
 _December 2020 - March 2021_
 #### Web-Developer
-##### Made a websites with different CMS (Joomla, OpenCart) \
+##### Made a websites with different CMS (Joomla, OpenCart)\
 
 
 > **Education**
 
 ### Eurasian National University
 _September 2018 - June 2022_
-#### Bachelor's Degree in Software Engineering \
+#### Bachelor's Degree in Software Engineering\
 
 
 > **Skills**
 
 ### Languages
 
-_Kazakh - Native Speaker_
-_English - B2 - UpperIntermediate_
-_Russian - Fluent_
+1. Kazakh - Native Speaker
+2. English - B2 - UpperIntermediate
+3. Russian - Fluent
 
 ### Programming languages
 
-_HTML5, CSS, JavaScript, Node.js, MySQL, MSSql, C#_
+1. HTML5 
+2. CSS 
+3. JavaScript 
+4. Node.js
+5. MySQL 
+6. MSSql
+7. C#
