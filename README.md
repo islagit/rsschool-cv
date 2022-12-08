@@ -1,1 +1,1 @@
-https://islagit.github.io/rsschool-cv
+https://islagit.github.io/rsschool-cv/cv
