@@ -2,7 +2,7 @@
 ## Front-End Developer
 ### Male
 
-**##Contacts**
+**Contacts**
 
 #### Islamsandybayev24@gmail.com
 #### Astana, Kazakhstan
