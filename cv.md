@@ -1,10 +1,9 @@
 # Islam Sandybayev
 # Front-End Developer
-
+## Male
 
 **Contacts**
 
-## Male
 ## Islamsandybayev24@gmail.com
 ## Astana, Kazakhstan
 
@@ -12,18 +11,18 @@
 **Work experience**
 
 ## Cerebro Innovation Technologies
-*January 2022 - until now*
+_January 2022 - until now_
 ### .NET Junior developer
 
-## Cerebro Innovation Technologies
-*December 2020 - March 2021*
+## ABC Design
+_December 2020 - March 2021_
 ### Web-Developer
 
 
 **Education**
 
 ## Eurasion National University
-*September 2018 - June 2022*
+_September 2018 - June 2022_
 ### Bachelor's Degree
 
 
@@ -31,10 +30,10 @@
 
 ## Languages
 
-*Kazakh - Native Speaker*
-*English - B2 - UpperIntermediate*
-*Russian - Fluent*
+_Kazakh - Native Speaker_
+_English - B2 - UpperIntermediate_
+_Russian - Fluent_
 
 ## Programming languages
 
-*HTML5, CSS, JavaScript, Node.js, MySQL, MSSql, C#*
+_HTML5, CSS, JavaScript, Node.js, MySQL, MSSql, C#_
