@@ -5,9 +5,9 @@
 **Contacts**
 
 #### Islamsandybayev24@gmail.com
-#### Astana, Kazakhstan
+#### Astana, Kazakhstan \n
 
->
+
 > **Work experience**
 
 ### Cerebro Innovation Technologies
@@ -18,16 +18,16 @@ _January 2022 - until now_
 ### ABC Design
 _December 2020 - March 2021_
 #### Web-Developer
-##### Made a websites with different CMS (Joomla, OpenCart)
+##### Made a websites with different CMS (Joomla, OpenCart) \n
 
->
+
 > **Education**
 
 ### Eurasian National University
 _September 2018 - June 2022_
-#### Bachelor's Degree in Software Engineering
+#### Bachelor's Degree in Software Engineering \n
 
->
+
 > **Skills**
 
 ### Languages
