@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --black: #1b1b1b;
+    --white: #e0e0e0;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    background-color: var(--black);
+    color: var(--white);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+}
+
+/*header*/
+
+header {
+    border-bottom: 1px solid var(--white);
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    line-height: 50px;
+    grid-gap: 15px;
+}
+
+a {
+    transition: .3s;
+    text-decoration: none;
+    color: var(--white);
+    position: relative;
+    padding-bottom: 5px;
+}
+
+a::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    opacity: 0;
+    bottom: 0;
+    height: 1px;
+    width: 0%;
+    background-color: var(--white);
+    transition: 0.3s;
+}
+
+a:hover::before {
+    position: absolute;
+    content: "";
+    left: 0;
+    opacity: 1;
+    bottom: 0;
+    height: 1px;
+    width: 100%;
+    background-color: var(--white);
+    transition: 0.3s;
+}
+
+/*sections*/
+
+.main .container {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 4%;
+    padding: 0 10px;
+}
+
+.section {
+    width: 48%;
+    margin: 50px 0;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: var(--white);
+    position: relative;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+}
+
+.section-title::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    opacity: 1;
+    bottom: 0;
+    height: 1px;
+    width: 75px;
+    background-color: var(--white);
+    transition: 0.3s;
+}
+
+.contact__name {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.section-subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.profile__content {
+    display: flex;
+    grid-gap: 30px;
+}
+
+.profile__content-img img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid var(--white)
+}
+
+.list-ul {
+    display: flex;
+    flex-direction: column;
+    grid-gap: 5px;
+}
+
+.list-ul span {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.code__content pre {
+    background-color: #1d1d2a;
+    padding: 10px;
+    border: 1px solid var(--white);
+}
+
+.menu {
+    display: none;
+    position: absolute;
+    top: 2px;
+    right: 20px;
+}
+
+.open-menu {
+    height: auto;
+    display: block !important;
+    padding: 25px 0;
+}
+
+/*footer*/
+
+footer {
+    border-top: 1px solid var(--white);
+    line-height: 50px;
+}
+
+.footer__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__content-right a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0;
+}
+
+@media (max-width: 992px) {
+    .container {
+        width: 90%;
+    }
+
+    .nav-list {
+        display: none;
+    }
+
+    .menu {
+        display: block;
+    }
+
+    .section {
+        width: 100%;
+        margin: 25px 0;
+    }
+
+    .profile__content {
+        display: flex;
+        grid-gap: 30px;
+    }
+
+    li.nav-item {
+        height: 30px;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .profile__content {
+        display: flex;
+        grid-gap: 30px;
+        flex-direction: column;
+    }
+
+    body {
+        font-size: 14px;
+    }
+}
