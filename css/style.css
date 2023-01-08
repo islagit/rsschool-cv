@@ -248,7 +248,15 @@ header {
   border-radius: 5px;
   padding: 12px 40px;
   background: none;
+  cursor: pointer;
+  transition: 0.3s;
 }
+.service__top-block-buttons button:hover {
+  color: var(--greenBg);
+  transition: 0.3s;
+  background: var(--orangeText);
+}
+
 .service__top-block {
   display: grid;
   grid-template-columns: 3fr 7fr;
@@ -288,7 +296,8 @@ header {
   border: 1px solid #E3E1D5;
   border-radius: 20px;
 }
-.main__prices-left button {
+.main__prices-left div {
+  cursor: pointer;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
@@ -317,7 +326,15 @@ header {
   background: none;
   margin-top: 38px;
   margin-bottom: 51px;
+  cursor: pointer;
+  transition: 0.3s;
 }
+.main__prices-right button:hover {
+  color: var(--greenBg);
+  transition: 0.3s;
+  background: var(--orangeText);
+}
+
 .main__prices-right img {
   display: block;
 }
@@ -341,7 +358,8 @@ header {
   display: flex;
   grid-gap: 113px;
 }
-.contacts__text button {
+.contacts__text div {
+  cursor: pointer;
   font-family: Inter;
   font-size: 20px;
   font-weight: 400;
