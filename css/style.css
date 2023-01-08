@@ -334,6 +334,9 @@ header {
   font-size: 40px;
   line-height: 52px;
 }
+.contacts__text {
+  width: 100%;
+}
 .contacts__content {
   display: flex;
   grid-gap: 113px;
