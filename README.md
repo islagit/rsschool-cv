@@ -1,5 +1,1 @@
-# rsschool-cv
-https://islagit.github.io/rsschool-cv/cv
-https://islagit.github.io/rsschool-cv/
-
-
+https://rolling-scopes-school.github.io/islagit/plants/
