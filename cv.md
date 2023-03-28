@@ -35,3 +35,7 @@ _September 2018 - June 2022_
 _Kazakh - Native Speaker_
 _English - B2 - UpperIntermediate_
 _Russian - Fluent_
+
+### Programming languages
+
+_HTML5, CSS, JavaScript, Node.js, MySQL, MSSql, C#_
