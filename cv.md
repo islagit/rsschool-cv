@@ -13,7 +13,10 @@
 ### Cerebro Innovation Technologies
 _January 2022 - until now_
 #### .NET Junior developer
-##### I make a desktop applications for office.
+##### I made a desktop applications for office.
+
+#### Frontend Junior developer
+##### Now I make a web-application on React/Next.js.
 
 ### ABC Design
 _December 2020 - March 2021_
@@ -27,6 +30,10 @@ _December 2020 - March 2021_
 _September 2018 - June 2022_
 #### Bachelor's Degree in Software Engineering
 
+### Eurasian National University
+_January 2023 - January 2025_
+#### Master's Degree in Information Security
+
 >
 > **Skills**
 
@@ -38,4 +45,4 @@ _Russian - Fluent_
 
 ### Programming languages
 
-_HTML5, CSS, JavaScript, Node.js, MySQL, MSSql, C#_
+_HTML5, CSS, React, Next.js, JavaScript, Node.js, MySQL, MSSql, C#_
